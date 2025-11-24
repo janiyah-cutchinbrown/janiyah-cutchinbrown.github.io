@@ -4,47 +4,47 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:jmcutchinbrown@student.csuniv.edu?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Cross-Platform Disk Free Space Checker | CSCI 301](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Project 2 Title | CSCI 315](project1)
-
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Cross-Platform Disk Free Space Checker](images/Project1_Terminal.png)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Sorted Student Map with Prefix Search | CSCI 315](project1)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Sorted Student Map with Prefix Search](images/Project2_Terminal.png)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Algorithms Assignment with Templates, Swaps, Copying, and Sorting | CSCI 415](project1)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Algorithms Assignment with Templates, Swaps, Copying, and Sorting](images/Project3_Terminal.png)
+
+---
+### [Donor & Event Management Database Design (ERD + SQL Implementation) | CSCI 419](project1)
+
+![Donor & Event Management Database Design (ERD + SQL Implementation)](images/Project4_Diagram.png)
 
 ---
 
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Ethics in Air Force Cyberspace Operations](/pdf/CSCI235_EthicsPaper_JaniyahCutchinBrown.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 235  
+-   **Grade: N/A- Grade Archived
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [The Ethics of Artificial Intelligence in the Air Force](/pdf/EthicsPaper_CSCI301_JaniyahCutchinBrown.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 301 
+-   **Grade: N/A- Grade Archived
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [The Ethics of Software Testing](/pdf/EthicsPaper_CSCI315_JaniyahCutchinBrown.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 315 
+-   **Grade: N/A- Grade Archived
 
 ---
 
