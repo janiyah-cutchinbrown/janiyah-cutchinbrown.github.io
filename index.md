@@ -7,22 +7,22 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:jmcutchinbrown@student.csuniv.edu?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Cross-Platform Disk Free Space Checker | CSCI 301](project1)
+### [Cross-Platform Disk Free Space Checker | CSCI 301](project1.md)
 
 ![Cross-Platform Disk Free Space Checker](images/Project1_Terminal.png)
 
 ---
-### [Sorted Student Map with Prefix Search | CSCI 315](project2)
+### [Sorted Student Map with Prefix Search | CSCI 315](project2.md)
 
 ![Sorted Student Map with Prefix Search](images/Project2_Terminal.png)
 
 ---
-### [Algorithms Assignment with Templates, Swaps, Copying, and Sorting | CSCI 415](project3)
+### [Algorithms Assignment with Templates, Swaps, Copying, and Sorting | CSCI 415](project3.md)
 
 ![Algorithms Assignment with Templates, Swaps, Copying, and Sorting](images/Project3_Terminal.png)
 
 ---
-### [Donor & Event Management Database Design (ERD + SQL Implementation) | CSCI 419](project4)
+### [Donor & Event Management Database Design (ERD + SQL Implementation) | CSCI 419](project4.md)
 
 ![Donor & Event Management Database Design (ERD + SQL Implementation)](images/Project4_Diagram.png)
 
