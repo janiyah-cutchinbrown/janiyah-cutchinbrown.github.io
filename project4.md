@@ -1,40 +1,26 @@
 
 [Back to Portfolio](./)
 
-Sorted Student Map with Prefix Search
+Donor and Event Management Database Design (ERD & SQL Implementation)
 ===============
 
--   **Class: CSCI 315 
--   **Grade: C
--   **Language(s): C++
+-   **Class: CSCI 419
+-   **Grade: N/A- Grade Archived
+-   **Language(s): SQL
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-This project required implementing a complete sorted map data structure in C++ without using STL map or unordered_map.  
-Keys (names) are stored in sorted order, and values (IDs) are stored in parallel.  
-Binary search is used for efficient lookup, prefix counting, and verifying sorted ordering.
+This project involved designing an Entity–Relationship Diagram (ERD) for a Donor & Event Management System, then mapping that design into a full relational schema.
 
-This project strengthened my understanding of maintaining ordered structures, implementing efficient search algorithms, and using vectors across multiple C++ files.
-
-## How to compile and run the program
-
-How to compile (if applicable) and run the project.
-
-```bash
-make
-./map-test
-```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
-Below Fig 1. shows successful output performing add, removing, and lookup operations.
+The ERD includes strong entities, associative entities, composite attributes, foreign keys and cardinality constraints, and relationships. The final design supports tracking donations, pledges, affiliations, events,  and payments in a normalized SQL database. 
 
-![screenshot](images/Project2_Terminal.png)  
-Fig 1. Output showing successfull add, remove, and loopup operations.
+![screenshot](images/Project3_Diagram.png)  
+Fig 1. Final ERD design
 
 ## Additional Considerations
 This project demonstrates sorted insertion using a binary search and parallel vector management.
