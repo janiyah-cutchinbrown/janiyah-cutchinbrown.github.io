@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Cross-Platform Disk Free Space Checker 
 ===============
 
 -   **Class: Survey of Scripting Languages
@@ -24,7 +24,6 @@ python3 RightTriangle.py
 
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
   Below is a screenshot of the RightTriangle class calculating the hypotenuse and surface area.
