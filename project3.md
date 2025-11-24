@@ -1,42 +1,45 @@
 [Back to Portfolio](./)
 
-Sorted Student Map with Prefix Search
+Algorithms Assignment with Templates, Swaps, Copying, and Sorting
 ===============
 
--   **Class: CSCI 315 
--   **Grade: C
+-   **Class: CSCI 415
+-   **Grade: N/A- Grade Archived
 -   **Language(s): C++
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-This project required implementing a complete sorted map data structure in C++ without using STL map or unordered_map.  
-Keys (names) are stored in sorted order, and values (IDs) are stored in parallel.  
-Binary search is used for efficient lookup, prefix counting, and verifying sorted ordering.
+This programming assignment required implementing several C++ features across multiple tasks, including:
 
-This project strengthened my understanding of maintaining ordered structures, implementing efficient search algorithms, and using vectors across multiple C++ files.
+- A templated class with a defined array size  
+- Displaying integer and floating-point values from templated storage  
+- Using a generic `mySwap()` function to swap values  
+- Debugging and correcting a faulty default copy constructor  
+- Using pointers — not array indexing — to remove odd numbers from a sorted array  
+- Sorting words from a file based on byte positions using `tellg()` and `tellp()`  
+
+This assignment strengthened my understanding of C++ templates, memory management, pointer arithmetic, and algorithmic thinking.
 
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
 
 ```bash
-make
-./map-test
+g++ main.cpp -o ./main
+./main
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
-Below Fig 1. shows successful output performing add, removing, and lookup operations.
+Below Fig 1. shows example output displaying template storage values printed from the program.
 
-![screenshot](images/Project2_Terminal.png)  
-Fig 1. Output showing successfull add, remove, and loopup operations.
+![screenshot](images/Project3_Terminal.png)  
+Fig 1. Example terminal output showing template storage values printed from the program.
 
 ## Additional Considerations
-This project demonstrates sorted insertion using a binary search and parallel vector management.
+This project improved my skills in template-based programming, pointer manipulation, and deep v. shallow copying in C++.
  
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
