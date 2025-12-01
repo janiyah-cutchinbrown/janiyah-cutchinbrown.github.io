@@ -12,7 +12,7 @@ Donor and Event Management Database Design (Data Dictionary & Cross Reference Ta
 
 ## Project description
 
-This project involved creating comprehensive database documentatino for a Donor & Event Management System, including a detailed Data Dictionary and Cross Reference Table. These documents define the structure, constraints, and relationships of the database schema implemented in SQL.
+This project involved creating comprehensive database documentation for a Donor & Event Management System, including a detailed Data Dictionary and Cross Reference Table. These documents define the structure, constraints, and relationships of the database schema implemented in SQL.
 
 The Data Dictionary lists each table's attributes, data types, keys, and detailed descriptions, while the Cross Reference Table maps relationships and foreign keys between entities to clarify their interconnections.
 
