@@ -51,16 +51,16 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Sorted Student Map Project Design](/pdf/studentMapPresentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: Senior Portfolio Review 
+- **Grade: N/A
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [The Ethics of Software Testing](/pdf/ethicsPresentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: Senior Portfolio Review
+- **Grade: N/A
 
 ---
 
