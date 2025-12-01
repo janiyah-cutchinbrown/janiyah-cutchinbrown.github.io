@@ -19,7 +19,7 @@ This project involved designing an Entity–Relationship Diagram (ERD) for a Don
 
 The ERD includes strong entities, associative entities, composite attributes, foreign keys and cardinality constraints, and relationships. The final design supports tracking donations, pledges, affiliations, events,  and payments in a normalized SQL database. 
 
-![screenshot](images/Project3_Diagram.png)  
+![screenshot](images/Project4_Diagram.png)  
 Fig 1. Final ERD design
 
 ## Additional Considerations
