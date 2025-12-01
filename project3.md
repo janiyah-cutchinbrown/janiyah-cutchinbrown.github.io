@@ -4,7 +4,7 @@ Algorithms Assignment with Templates, Swaps, Copying, and Sorting
 ===============
 
 -   **Class: CSCI 415
--   **Grade: N/A- Grade Archived
+-   **Grade: A
 -   **Language(s): C++
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
