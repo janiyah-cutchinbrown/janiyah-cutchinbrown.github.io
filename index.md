@@ -34,17 +34,17 @@ Ethics Papers
 ### [Ethics in Air Force Cyberspace Operations](/pdf/CSCI235_EthicsPaper_JaniyahCutchinBrown.pdf)
 
 -   **Class: CSCI 235  
--   **Grade: N/A- Grade Archived
+-   **Grade: A
 
 ### [The Ethics of Artificial Intelligence in the Air Force](/pdf/EthicsPaper_CSCI301_JaniyahCutchinBrown.pdf)
 
 -   **Class: CSCI 301 
--   **Grade: N/A- Grade Archived
+-   **Grade: A
 
 ### [The Ethics of Software Testing](/pdf/EthicsPaper_CSCI315_JaniyahCutchinBrown.pdf)
 
 -   **Class: CSCI 315 
--   **Grade: N/A- Grade Archived
+-   **Grade: A
 
 ---
 
