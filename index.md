@@ -22,7 +22,7 @@ Programming Projects
 ![Algorithms Assignment with Templates, Swaps, Copying, and Sorting](images/Project3_Terminal.png)
 
 ---
-### [Donor & Event Management Database Design (ERD + SQL Implementation) | CSCI 419](project4.md)
+### [Donor & Event Management Database Design (Data Dictionary & Cross-Reference Table Implementation) | CSCI 419](project4.md)
 
 ![Donor & Event Management Database Design (ERD + SQL Implementation)](images/Project4_Diagram.png)
 
